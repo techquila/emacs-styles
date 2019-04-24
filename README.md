@@ -1,5 +1,5 @@
 # emacs-styles
-The following are concept designs for a new look emacs that I occasionally am inspired to play with from time to time.  
+The following are concept designs for a new look emacs that I am occasionally  inspired to play with from time to time.  
 
 ## flat logo versions 
 
